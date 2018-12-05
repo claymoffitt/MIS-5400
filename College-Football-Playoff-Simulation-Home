@@ -1,0 +1,6 @@
+# MIS-5400
+Class Assignments
+
+This is a simulation of a 16-team college football playoff, as opposed to the current four-team playoff.
+
+Data was scraped from the web to determine offensive and defensive ratings, as well as strength of schedule, based on the actually 2018 college football season. The 10 conference champions receive an automatic bid and six additional at-large bids were selected from the tournament, based on their ratings. The teams are placed in a 16-team bracket and the results are simulated. A National Champion is crowned based on these simulations.
