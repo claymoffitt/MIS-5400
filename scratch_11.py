@@ -97,7 +97,7 @@ connection.close()
 # class ncaafb(object):
 #     connection_params = {
 #         'user': 'claymoffitt',
-#         'password': 'Ohbilly!1',
+#         'password': 'XXX',
 #         'host': 'ds255403.mlab.com',
 #         'port': 55403,
 #         'namespace': 'ncaafb',
